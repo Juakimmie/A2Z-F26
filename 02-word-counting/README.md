@@ -110,6 +110,7 @@ Reflect on your process of word counting and consider the following questions (d
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Bairui Su - [Tokenization Visualizer](https://observablehq.com/@pearmini/tokenization-visualizer), [Jiggly Wordle](https://wordle.bairui.dev/)
+- Jua Kim - [Word Counting](https://app.notion.com/p/Week-2-Word-Counting-3dc6da1aec628040b1e1c1ac840d83f4?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
