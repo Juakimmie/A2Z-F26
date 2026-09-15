@@ -104,6 +104,7 @@ Reflect on your process of word counting and consider the following questions (d
 
 - Bairui Su - [OverFast API](https://overfast-api.tekrop.fr/docs)
 - Tianchen - [Morse Code API](https://apiverve.com/marketplace/morsecode)
+- Jua Kim - [Weather API](https://open-meteo.com/en/docs)
 
 ### Add your assignment below via Pull Request
 
