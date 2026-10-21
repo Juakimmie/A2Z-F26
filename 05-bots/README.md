@@ -128,6 +128,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Seeha - [Sijo Simplified](https://app.notion.com/p/Bot-Project_SijoSimplified-3f2ff69c6b3580a79023cfdc11d79b31?source=copy_link)
 - Ran - [emoji guess bot](https://app.notion.com/p/Week-6-3f8c2894908d805fbf62c4d7160797d6)
 - Kwan - [CAT](https://app.notion.com/p/kkkwan-The-Bot-40070ff9c53880349de9e2fd0ddbc258?source=copy_link)
+- Jua - [Fortune cookie](https://app.notion.com/p/Week-5-6-Bot-Project-3ff6da1aec6280bd9df3f04e9f0f7338)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
